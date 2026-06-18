@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
   }
 }
